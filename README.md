@@ -18,7 +18,7 @@ Simple code to visualize the intuition about voice identification and a blueprin
       Please record your voice
   ```
   
-  <img src="https://github.com/dz07/Voice-Biometrics-Authentication-with-MATLAB/blob/master/result.PNG"  img align="center" title="testing result">
+  <img src="https://github.com/dz07/Voice-Biometrics-Authentication-with-MATLAB/blob/master/result.PNG"  img align="center" title="testing-result">
   
   ```
   The detected class is :
