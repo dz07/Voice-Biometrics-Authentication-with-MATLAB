@@ -15,7 +15,7 @@ figure;
 
 f = Voiceft(data);
 
-%% save data
+%% save data in DB 
 
 db = input('Enter the user: ');
 
