@@ -4,4 +4,4 @@ Simple code to visualize the intuition about voice identification and a blueprin
 ## How to Run :
  ### 1.Run in Octave terminal:
   ```Voicetesting ```
- <img src="https://github.com/mravanelli/Voice-Biometrics-Authentication-with-MATLAB/blob/master/Soundcapt.png" width="400" img align="center">
+ <img src="https://github.com/dz07/Voice-Biometrics-Authentication-with-MATLAB/blob/master/Soundcapt.png" width="400" img align="center">
